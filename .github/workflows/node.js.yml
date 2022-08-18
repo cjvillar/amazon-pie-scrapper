@@ -5,8 +5,8 @@ name: Update Pie Price
 
 on:
   [workflow_dispatch]
-  schedual:
-    - cron: '0 0 * * *''
+schedual:
+  - cron: '0 0 * * *''
 
 jobs:
   build:
