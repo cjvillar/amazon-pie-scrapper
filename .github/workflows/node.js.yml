@@ -20,4 +20,12 @@ jobs:
         cache: 'npm'
     - run: npm ci
     - run: npm run start
+    - name: commit
+    - run: |
+        git add pie_price.json
+        git commit -m 'updating pie price'
+        git push origin master
+          
+
+
  
