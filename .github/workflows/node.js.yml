@@ -21,7 +21,7 @@ jobs:
     - run: npm ci
     - run: npm run start
     - name: commit
-     - uses: actions/checkout@v3
+      uses: actions/checkout@v3
     - run: |
         git add pie_price.json
         git commit -m 'updating pie price'
