@@ -1,10 +1,9 @@
 # Amazon-Pie-Scrapper 
 ![action_working](https://github.com/cjvillar/amazon-pie-scrapper/actions/workflows/node.js.yml/badge.svg)
 
-This project uses the Puppeteer Node library to  
-get the price of Raspberry Pi 4s scrapped from amazon (US). Not really usefull but
-this is to test out automation with GitHub Actions. As I discover things to try I will implement them 
-here! 
+This project uses the Puppeteer Node library to  get the price of Raspberry Pi 4s scrapped from amazon (US). 
+Not really usefull but this is to test out automation with GitHub Actions. 
+As I discover things to try I will implement them here! 
 
 ## Installation
 
