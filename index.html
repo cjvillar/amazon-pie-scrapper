@@ -1,1 +1,69 @@
-<h1>Hi</h1>
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pie Prices</title>
+  </head>
+
+  <body>
+    <img
+      src="assets/images/IMG_6626_Original.jpg"
+      alt="Pi"
+      style="width: 40%"
+    />
+    <h1>Today's Amazon Raspberry Pi 4 Prices</h1>
+    <div id="Date"></div>
+    <div id="Price"></div>
+    <script>
+      fetch("https://www.cjvillarreal.com/amazon-pie-scrapper/pie_price.json")
+        .then((response) => {
+          if (response.ok) {
+            return response.json();
+          } else {
+            throw new Error("NETWORK RESPONSE ERROR");
+          }
+        })
+        .then((data) => {
+          console.log(data);
+          displayPrice(data);
+        })
+        .catch((error) => console.error("FETCH ERROR:", error));
+      function displayPrice(data) {
+        const Price = data.Prices;
+        const Date = data.date;
+        const priceDiv = document.getElementById("Price");
+        const dateDiv = document.getElementById("Date");
+        const Header = document.createElement("h3");
+        Header.innerHTML = Date;
+        dateDiv.appendChild(Header);
+        const priceLength = Price.length;
+        for (let i = 0; i < priceLength; i++) {
+          const listPrices = document.createElement("li");
+          listPrices.innerHTML = ("$" + Price[i]);
+          priceDiv.appendChild(listPrices);
+        }
+      }
+    </script>
+    <style>
+      body,
+      h1,
+      h5 {
+        font-family: "Raleway", sans-serif;
+      }
+      body {
+        height: 100%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 40%;
+      }
+      li {
+        list-style-type: circle;
+      }
+      img {
+        display: block;
+        margin-left: left;
+        margin-right: auto;
+      }
+    </style>
+  </body>
+</html>
