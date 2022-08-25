@@ -1,6 +1,6 @@
 const fs = require('fs')
 const scraperObject = {
-  url: "https://www.amazon.com/s?k=raspberry+pi+4&crid=1PS9ECP3EE5TL&sprefix=raspberry+pi+4%2Caps%2C139&ref=nb_sb_noss_1",
+  url: "https://www.amazon.com/s?k=raspberry+pi+4&i=computers&rh=p_36%3A3500-&crid=2KVTRB9PAEY56&qid=1661408932&rnid=386442011&sprefix=raspberry+pi+4+%2Ccomputers%2C155&ref=sr_nr_p_36_5",
   async scraper(browser) {
     let page = await browser.newPage();
     console.log(`Navigating to ${this.url}...`);
@@ -18,14 +18,34 @@ const scraperObject = {
       )
     );
 
+    const products = await page.evaluate(() =>
+      Array.from(document.querySelectorAll("span.a-size-medium.a-color-base.a-text-normal")).map(
+        (products) => products.innerText.replace("\n.", "")
+      )
+    );
+
     const price = whole_price.map((left, idx) => [
       left.concat(".", fraction_price[idx]),
     ]);
+
     const merged_prices = [].concat.apply([], price);
     const date = new Date();
-    const json_data = {'Prices':merged_prices, 'date': date};
+    //const json_data = {'Date': date, 'Price':merged_prices, 'Product':product};
+     
+    const pies = merged_prices.map((o, i) => ({Price: '$' + o , product: products[i]}));
+    const json_data = {'Date': date, 'Pies': pies};
+   
+
+    // pricesDict = prices.map(x => ({price: x}));
+    // console.log(pricesDict);
+
+    // productsDict = products.map(x => ({products: x}));
+    // console.log(productsDict);
+
+
 
     console.log(merged_prices);
+
     fs.writeFile(
       "./pie_price.json",
       JSON.stringify(json_data, null, 3),
