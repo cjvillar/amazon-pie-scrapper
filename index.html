@@ -12,7 +12,9 @@
     />
     <h1>Today's Amazon Raspberry Pi 4 Prices</h1>
     <div id="Date"></div>
-    <div id="Price"></div>
+    <div id="Price">
+      <div id="Product"/>
+    </div>
     <script>
       fetch("https://www.cjvillarreal.com/amazon-pie-scrapper/pie_price.json")
         .then((response) => {
@@ -28,9 +30,12 @@
         })
         .catch((error) => console.error("FETCH ERROR:", error));
       function displayPrice(data) {
-        const Price = data.Prices;
-        const Date = data.date;
+        const Price = data.Pies;
+        //const Product = data.Pies.Product;
+        const Date = data.Date;
+  
         const priceDiv = document.getElementById("Price");
+        const productDiv = document.getElementById("Product");
         const dateDiv = document.getElementById("Date");
         const Header = document.createElement("h3");
         Header.innerHTML = Date;
@@ -38,8 +43,13 @@
         const priceLength = Price.length;
         for (let i = 0; i < priceLength; i++) {
           const listPrices = document.createElement("li");
-          listPrices.innerHTML = ("$" + Price[i]);
+          const listProducts = document.createElement("li");
+          listPrices.innerHTML = (Price[i].Price);
+          listProducts.innerHTML = (Price[i].Product);
           priceDiv.appendChild(listPrices);
+          productDiv.appendChild(listProducts);
+
+
         }
       }
     </script>

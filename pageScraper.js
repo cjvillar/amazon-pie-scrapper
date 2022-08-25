@@ -30,7 +30,7 @@ const scraperObject = {
 
     const merged_prices = [].concat.apply([], price);
     const date = new Date(); 
-    const pies = merged_prices.map((o, i) => ({Price: '$' + o , product: products[i]}));
+    const pies = merged_prices.map((o, i) => ({Price: '$' + o , Product: products[i]}));
     const json_data = {'Date': date, 'Pies': pies};
     
     console.log(merged_prices);
