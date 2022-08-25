@@ -29,21 +29,10 @@ const scraperObject = {
     ]);
 
     const merged_prices = [].concat.apply([], price);
-    const date = new Date();
-    //const json_data = {'Date': date, 'Price':merged_prices, 'Product':product};
-     
+    const date = new Date(); 
     const pies = merged_prices.map((o, i) => ({Price: '$' + o , product: products[i]}));
     const json_data = {'Date': date, 'Pies': pies};
-   
-
-    // pricesDict = prices.map(x => ({price: x}));
-    // console.log(pricesDict);
-
-    // productsDict = products.map(x => ({products: x}));
-    // console.log(productsDict);
-
-
-
+    
     console.log(merged_prices);
 
     fs.writeFile(
