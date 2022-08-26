@@ -1,5 +1,7 @@
 # Amazon-Pie-Scrapper 
 ![action_working](https://github.com/cjvillar/amazon-pie-scrapper/actions/workflows/node.js.yml/badge.svg)
+![Prices](https://github.com/cjvillar/amazon-pie-scrapper/actions/workflows/main.yml/badge.svg)
+
 
 Check out todays prices [Here!](https://www.cjvillarreal.com/amazon-pie-scrapper/pie_price.json)
 
