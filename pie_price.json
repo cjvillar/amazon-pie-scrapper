@@ -1,5 +1,5 @@
 {
-   "Date": "2022-08-30T00:04:55.457Z",
+   "Date": "2022-08-30T00:57:39.996Z",
    "Pies": [
       {
          "Price": "$155.00",
@@ -70,8 +70,8 @@
          "Product": "GeeekPi Raspberry Pi 4 4GB Starter Kit - 32GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
       },
       {
-         "Price": "$67.39",
-         "Product": "Raspberry Pi Official 7 Inch Touch Screen for Raspberry Pi 4 / pi 3/pi 2 Model B"
+         "Price": "$155.95",
+         "Product": "Raspberry Pi 400 Computer Kit US Keyboard Layout - 16 GB, W125890265 (US Keyboard Layout - 16 GB microSD-Kort, 1 m mikro-HDMI til HDMI A-Kabel -)"
       },
       {
          "Price": "$299.99",
@@ -86,16 +86,16 @@
          "Product": "Raspberry Pi 3 Model B Board"
       },
       {
-         "Price": "$155.95",
-         "Product": "Raspberry Pi 400 Computer Kit US Keyboard Layout - 16 GB, W125890265 (US Keyboard Layout - 16 GB microSD-Kort, 1 m mikro-HDMI til HDMI A-Kabel -)"
-      },
-      {
          "Price": "$137.00",
          "Product": "Raspberry Pi 3 Model B Board"
       },
       {
          "Price": "$69.99",
          "Product": "GeeekPi Mini Tower UPS Kit, Raspberry Pi ICE Tower Cooler with PWM RGB Fan, Raspberry Pi UPS Plus Hat, 0.96 inch OLED Display, GPIO 1 to 2 Expansion Board for Raspberry Pi 4 Model B"
+      },
+      {
+         "Price": "$61.99",
+         "Product": "Raspberry Pi 7\" Touch Screen Display"
       }
    ]
 }
