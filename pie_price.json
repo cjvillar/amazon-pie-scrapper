@@ -1,12 +1,12 @@
 {
-   "Date": "2022-09-18T00:55:56.128Z",
+   "Date": "2022-09-19T00:53:44.068Z",
    "Pies": [
       {
-         "Price": "$145.00",
+         "Price": "$143.90",
          "Product": "Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)"
       },
       {
-         "Price": "$132.90",
+         "Price": "$130.00",
          "Product": "Raspberry SC15184 Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (2GB)"
       },
       {
@@ -26,16 +26,8 @@
          "Product": "iUniker Raspberry Pi 4 8GB Kit, 5V 4A Raspberry Pi 4 Power Supply, 4K HDMI Cable, Heatsink Raspberry Pi 4 Case - 64GB Edition (8GB RAM)"
       },
       {
-         "Price": "$129.99",
-         "Product": "Raspberry Pi Compute Module 4, Options for RAM / EMMC / Wireless"
-      },
-      {
          "Price": "$199.00",
          "Product": "Raspberry Pi 4 Model B 8GB for Game Emulator/Mini PC/Artificial Intelligence/Printer/Workstation/Media Center/File Storage Server/Etc"
-      },
-      {
-         "Price": "$259.99",
-         "Product": "Raspberry Pi Compute Module 4-8GB RAM eMMC 0GB (Lite), 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4108000)"
       },
       {
          "Price": "$169.00",
@@ -62,32 +54,32 @@
          "Product": "GeeekPi Raspberry Pi 4 4GB Starter Kit - 32GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
       },
       {
+         "Price": "$185.00",
+         "Product": "Raspberry Pi Compute Module 4 (CM4) - 4GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4104032)"
+      },
+      {
          "Price": "$165.00",
          "Product": "Raspberry Pi 400 All-in-One Quad-Core 64 Bit 4GB Ram Dual Band WiFi Bluetooth 5.0 BLE Dual 4K Output Complete Personal Computer Kit Built Into A Compact Keyboard – You just Need to add a Monitor! "
       },
       {
-         "Price": "$185.00",
-         "Product": "Raspberry Pi Compute Module 4 (CM4) - 4GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4104032)"
+         "Price": "$259.99",
+         "Product": "RasTech Raspberry Pi 4 4GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Adapter, Card Reader，Screwdriver"
+      },
+      {
+         "Price": "$139.00",
+         "Product": "Raspberry Pi 3 Model B Board"
       },
       {
          "Price": "$239.99",
          "Product": "GeeekPi Raspberry Pi 4 Model B 4GB RAM Board and DeskPi Lite Raspberry Pi 4 Case with Power Button/ Heatsink with PWM Fan,32GB Card,QC3.0 Power Supply for Raspberry Pi 4B"
       },
       {
-         "Price": "$136.89",
-         "Product": "Raspberry Pi 3 Model B Board"
+         "Price": "$289.99",
+         "Product": "RasTech Raspberry Pi 4 8GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cable, Card Reader, Copper Heatsink, Screwdriver"
       },
       {
          "Price": "$155.95",
          "Product": "Raspberry Pi 400 Computer Kit US Keyboard Layout - 16 GB, W125890265 (US Keyboard Layout - 16 GB microSD-Kort, 1 m mikro-HDMI til HDMI A-Kabel -)"
-      },
-      {
-         "Price": "$76.86",
-         "Product": "Raspberry Pi Official 7 Inch Touch Screen for Raspberry Pi 4 / pi 3/pi 2 Model B"
-      },
-      {
-         "Price": "$289.99",
-         "Product": "RasTech Raspberry Pi 4 8GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cable, Card Reader, Copper Heatsink, Screwdriver"
       },
       {
          "Price": "$45.00",
@@ -96,6 +88,14 @@
       {
          "Price": "$172.99",
          "Product": "Raspberry Pi 3 Model B+ Board (3B+)"
+      },
+      {
+         "Price": "$129.99",
+         "Product": "Raspberry Pi Compute Module 4, Options for RAM / EMMC / Wireless"
+      },
+      {
+         "Price": "$76.18",
+         "Product": "Raspberry Pi Official 7 Inch Touch Screen for Raspberry Pi 4 / pi 3/pi 2 Model B"
       }
    ]
 }
