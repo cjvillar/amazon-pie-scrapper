@@ -1,8 +1,8 @@
 {
-   "Date": "2022-12-11T00:52:01.738Z",
+   "Date": "2022-12-11T03:13:00.605Z",
    "Pies": [
       {
-         "Price": "$176.00",
+         "Price": "$178.00",
          "Product": "Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)"
       },
       {
@@ -42,10 +42,6 @@
          "Product": "CanaKit Raspberry Pi 4 Extreme Kit - 128GB Edition (1GB RAM)"
       },
       {
-         "Price": "$255.95",
-         "Product": "Vis Viva Raspberry Pi 4 Model B Starter Kit (8GB)"
-      },
-      {
          "Price": "$229.99",
          "Product": "GeeekPi Raspberry Pi 4 4GB Starter Kit - 32GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
       },
@@ -78,10 +74,6 @@
          "Product": "Freenove Ultimate Starter Kit for Raspberry Pi Pico (Included) (Compatible with Arduino IDE), 687-Page Detailed Tutorial, 222 Items, 112 Projects, Python C Java Code"
       },
       {
-         "Price": "$229.99",
-         "Product": "iUniker Raspberry Pi 4 4GB Starter Kit - 32GB Edition, Raspberry Pi 4 Case Aluminum Case, 20W 5V 4A Raspberry Pi 4 Power Supply with ON/Off Switch, HDMI Cable for Pi 4B (4GB RAM)"
-      },
-      {
          "Price": "$47.00",
          "Product": "Argon ONE M.2 Aluminum Case for Raspberry Pi 4 with Power Button and Fan | SATA SSD Support | B-Key and B+M Key Compatible"
       },
@@ -90,8 +82,16 @@
          "Product": "iUniker Raspberry Pi 4 8GB Max Kit - 64GB Edition, Raspberry Pi 4 Case Aluminum Case, 20W 5V 4A Raspberry Pi 4 Power Supply with ON/Off Switch, HDMI Cable for Pi 4B (8GB RAM)"
       },
       {
+         "Price": "$229.99",
+         "Product": "iUniker Raspberry Pi 4 4GB Starter Kit - 32GB Edition, Raspberry Pi 4 Case Aluminum Case, 20W 5V 4A Raspberry Pi 4 Power Supply with ON/Off Switch, HDMI Cable for Pi 4B (4GB RAM)"
+      },
+      {
          "Price": "$216.99",
          "Product": "RasTech Raspberry Pi 4 4GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cables, Copper Heatsinks, Card Reader, Screwdriver(4GB RAM)"
+      },
+      {
+         "Price": "$169.00",
+         "Product": "Raspberry Pi Compute Module 4 (CM4) - 4GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4104032)"
       },
       {
          "Price": "$299.99",
