@@ -28,4 +28,5 @@ jobs:
       with:
         commit_message: "Updating pie_price.json"
         commit_user_name: cjvillar
+        commit_user_email: cjvillar@ucsc.edu
 
