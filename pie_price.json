@@ -1,12 +1,12 @@
 {
-   "Date": "2022-12-24T06:22:35.938Z",
+   "Date": "2022-12-25T06:22:57.430Z",
    "Pies": [
       {
-         "Price": "$160.00",
+         "Price": "$159.99",
          "Product": "Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)"
       },
       {
-         "Price": "$219.00",
+         "Price": "$216.50",
          "Product": "Raspberry Pi 4 Model B (8gb)"
       },
       {
@@ -31,30 +31,22 @@
       },
       {
          "Price": "$139.99",
+         "Product": "Raspberry Pi 4 Model B 8GB"
+      },
+      {
+         "Price": "$216.50",
          "Product": "Raspberry Pi 4 Model B 8GB RAM 64-bit 1.5GHz Quad-core Processor Bluetooth 5.0 Dual-Band WiFi"
       },
       {
          "Price": "$206.99",
-         "Product": "Raspberry Pi 4 Model B 8GB"
-      },
-      {
-         "Price": "$219.00",
          "Product": "Waveshare Accessory Compatible with Raspberry Pi 4 Model B 4GB RAM with Powerful Processor Faster Networking Support Dual 4K Output and Different Choice of RAM Comes with a Copper Heat Sink"
       },
       {
-         "Price": "$174.49",
+         "Price": "$179.00",
          "Product": "Vis Viva Raspberry Pi 4 Model B Starter Kit (1GB)"
       },
       {
          "Price": "$149.95",
-         "Product": "Vilros Raspberry Pi 4 4GB Basic Kit with Fan Cooled Case"
-      },
-      {
-         "Price": "$189.99",
-         "Product": "Miuzei Raspberry Pi 4 Touchscreen with Case Fan, 4 inch IPS Touch Screen LCD Display, 800x480 HDMI Monitor for RPI 4b 8gb/4gb/2gb with Touch Pen (Support Raspbian/Kali/Octopi/Ubuntu)- No Raspberry Pi"
-      },
-      {
-         "Price": "$37.99",
          "Product": "GeeekPi Raspberry Pi 4 4GB Starter Kit - 32GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
       },
       {
@@ -91,11 +83,19 @@
       },
       {
          "Price": "$198.99",
+         "Product": "Libre Computer Board AML-S905X-CC (Le Potato) 2GB 64-bit Mini Computer for 4K Media"
+      },
+      {
+         "Price": "$35.00",
          "Product": "GeeekPi Raspberry Pi 4 4GB Kit, Retroflag PiStation Case with 5V 3A Power Supply, 32GB Card, 2PCS USB Wired Controllers, HDMI Cable , Case with Fan for Raspberry Pi 4B (4GB RAM)"
       },
       {
          "Price": "$249.99",
-         "Product": "Freenove Ultimate Starter Kit for Raspberry Pi Pico (Included) (Compatible with Arduino IDE), 687-Page Detailed Tutorial, 222 Items, 112 Projects, Python C Java Code"
+         "Product": "Waveshare Accessory Compatible with Raspberry Pi 4 Model B 2GB RAM with Powerful Processor Faster Networking Support Dual 4K Output and Different Choice of RAM Comes with a Copper Heat Sink"
+      },
+      {
+         "Price": "$139.99",
+         "Product": "FREENOVE Complete Starter Kit for Raspberry Pi 4 B 3 B+ 400, Python C Java Scratch Code, 708-Page Tutorial, 138 Projects, 386 Items, Camera Speaker Sound Sensor (Raspberry Pi NOT Included)"
       },
       {
          "Price": "$59.95"
