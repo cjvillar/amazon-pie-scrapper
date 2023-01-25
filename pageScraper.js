@@ -1,12 +1,17 @@
 const fs = require('fs')
 const scraperObject = {
-  url: "https://www.amazon.com/s?k=raspberry+pi+4&crid=1PS9ECP3EE5TL&sprefix=raspberry+pi+4%2Caps%2C139&ref=nb_sb_noss_1",
+  url: "https://www.amazon.com",
   async scraper(browser) {
-    //let page = await browser.newPage();
+    //const page = await browser.newPage();
     const page = (await browser.pages())[0]; //<-- use only one tab.
     console.log(`Navigating to ${this.url}...`);
     console.log((await browser.pages()).length);
     await page.goto(this.url);
+
+    //await page.waitForSelector('');
+    //type  in search bar
+    await page.waitForSelector('#twotabsearchtextbox', {visible: true, timeout: 3000 });
+    await page.type('#twotabsearchtextbox', 'Raspbery Pi');
 
     const whole_price = await page.evaluate(() =>
       Array.from(document.querySelectorAll("span.a-price-whole")).map(
@@ -27,21 +32,21 @@ const scraperObject = {
     const date = new Date();
     const json_data = {'Prices':merged_prices, 'date': date};
 
-    console.log(merged_prices);
-    fs.writeFile(
-      "./pie_price.json",
-      JSON.stringify(json_data, null, 3),
-      (err) => {
-        if (err) {
-          console.error(err);
-          return;
-        }
-        console.log("Saved to JSON file");
-      }
-    );
+    console.log(json_data);
+    // fs.writeFile(
+    //   "./pie_price.json",
+    //   JSON.stringify(json_data, null, 3),
+    //   (err) => {
+    //     if (err) {
+    //       console.error(err);
+    //       return;
+    //     }
+    //     console.log("Saved to JSON file");
+    //   }
+    // );
 
-    await browser.close();
-  },
-};
+     await browser.close();
+   },
+ };
 
 module.exports = scraperObject;
