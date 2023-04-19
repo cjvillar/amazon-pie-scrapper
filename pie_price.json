@@ -1,5 +1,5 @@
 {
-   "Date": "2023-04-18T06:24:02.182Z",
+   "Date": "2023-04-19T06:23:56.057Z",
    "Pies": [
       {
          "Price": "$144.99",
@@ -14,7 +14,7 @@
          "Product": "Pi"
       },
       {
-         "Price": "$160.00",
+         "Price": "$279.99",
          "Product": ""
       },
       {
@@ -26,47 +26,23 @@
          "Product": "Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)"
       },
       {
-         "Price": "$279.99",
+         "Price": "$179.90",
          "Product": "CanaKit "
       },
       {
-         "Price": "$179.90",
-         "Product": "Raspberry"
-      },
-      {
          "Price": "$217.99",
-         "Product": ""
+         "Product": "Raspberry"
       },
       {
          "Price": "$159.95",
-         "Product": "Pi"
-      },
-      {
-         "Price": "$299.99",
          "Product": ""
-      },
-      {
-         "Price": "$225.99",
-         "Product": "4"
-      },
-      {
-         "Price": "$199.99",
-         "Product": "Extreme Kit - 128GB Edition (4GB RAM)"
-      },
-      {
-         "Price": "$224.99",
-         "Product": "Raspberry"
-      },
-      {
-         "Price": "$143.90",
-         "Product": ""
-      },
-      {
-         "Price": "$209.99",
-         "Product": "Pi"
       },
       {
          "Price": "$276.99",
+         "Product": "Pi"
+      },
+      {
+         "Price": "$224.99",
          "Product": ""
       },
       {
@@ -74,23 +50,47 @@
          "Product": "4"
       },
       {
-         "Price": "$229.99",
-         "Product": "Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc."
-      },
-      {
          "Price": "$209.99",
-         "Product": "Argon NEO Case with "
+         "Product": "Extreme Kit - 128GB Edition (4GB RAM)"
       },
       {
-         "Price": "$276.99",
+         "Price": "$229.99",
          "Product": "Raspberry"
       },
       {
-         "Price": "$198.99",
+         "Price": "$209.99",
          "Product": ""
       },
       {
-         "Price": "$393.99",
+         "Price": "$299.99",
+         "Product": "Pi"
+      },
+      {
+         "Price": "$199.99",
+         "Product": ""
+      },
+      {
+         "Price": "$225.99",
+         "Product": "4"
+      },
+      {
+         "Price": "$149.00",
+         "Product": "Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc."
+      },
+      {
+         "Price": "$276.99",
+         "Product": "GeeekPi "
+      },
+      {
+         "Price": "$196.99",
+         "Product": "Raspberry"
+      },
+      {
+         "Price": "$78.26",
+         "Product": ""
+      },
+      {
+         "Price": "$79.99",
          "Product": "Pi"
       }
    ]
