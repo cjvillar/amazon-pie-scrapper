@@ -1,9 +1,9 @@
 {
-   "Date": "2023-05-10T06:22:50.269Z",
+   "Date": "2023-05-10T07:10:36.059Z",
    "AMZ": [
       {
          "ID": "AMZ0",
-         "Price": "$145.39",
+         "Price": "$146.99",
          "Product": "Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)"
       },
       {
@@ -88,18 +88,18 @@
       },
       {
          "ID": "AMZ17",
-         "Price": "$276.99",
-         "Product": "DVOZVO Raspberry Pi 4 8GB Starter Kit, 5V 4A Raspberry Pi 4 Power Supply with ON/Off Switch,Raspberry Pi 4 Aluminum Case,4K HDMI Cables for Raspberry Pi 4B - 64GB Edition (8GB RAM)"
-      },
-      {
-         "ID": "AMZ18",
          "Price": "$229.99",
          "Product": "GeeekPi Raspberry Pi 4 4GB Kit - 64GB Edition, DeskPi Lite Raspberry Pi 4 Case with Power Button/Heatsink/PWM Fan, Raspberry Pi 4 Power Supply for Raspberry Pi 4B"
       },
       {
-         "ID": "AMZ19",
+         "ID": "AMZ18",
          "Price": "$148.00",
          "Product": "Embedded Works Raspberry Pi 4 Kit | 4GB RAM | Quad Core 64 Bit WiFi Bluetooth (Full Kit)"
+      },
+      {
+         "ID": "AMZ19",
+         "Price": "$267.99",
+         "Product": "Raspberry Pi Compute Module 4 with CM4 heatsink PWM Fan, CM4 8GB RAM 32GB eMMC Single Board 64-Bit Quad-Core Processor Bluetooth 5.0 Dual-Band WiFi (CM4108032)"
       },
       {
          "ID": "AMZ20",
@@ -108,13 +108,13 @@
       },
       {
          "ID": "AMZ21",
-         "Price": "$267.99",
-         "Product": "Raspberry Pi Compute Module 4 with CM4 heatsink PWM Fan, CM4 8GB RAM 32GB eMMC Single Board 64-Bit Quad-Core Processor Bluetooth 5.0 Dual-Band WiFi (CM4108032)"
+         "Price": "$259.99",
+         "Product": "Marstudy Raspberry Pi 4 Model B Starter Kit -64GB Edition/Raspberry Pi 4B (8GB RAM) /Raspberry Pi OS Pre-Installed"
       },
       {
          "ID": "AMZ22",
-         "Price": "$259.99",
-         "Product": "Marstudy Raspberry Pi 4 Model B Starter Kit -64GB Edition/Raspberry Pi 4B (8GB RAM) /Raspberry Pi OS Pre-Installed"
+         "Price": "$199.99",
+         "Product": "MazerPi Raspberry Pi 4 4GB Max Kit - 64GB Edition, Raspberry Pi 4 Case with Fan, 20W 5V 4A Raspberry Pi 4 Power Supply with ON/Off Switch, HDMI Cable for Pi 4B (4GB RAM)"
       }
    ],
    "CANAKIT": [
