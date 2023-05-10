@@ -1,5 +1,5 @@
 {
-   "Date": "2023-05-09T21:16:56.394Z",
+   "Date": "2023-05-10T06:22:50.269Z",
    "AMZ": [
       {
          "ID": "AMZ0",
@@ -13,108 +13,108 @@
       },
       {
          "ID": "AMZ2",
+         "Price": "$168.79",
+         "Product": "Raspberry Pi 4 Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc."
+      },
+      {
+         "ID": "AMZ3",
          "Price": "$189.99",
          "Product": "CanaKit Raspberry Pi 4 Extreme Kit - Aluminum Edition (8GB RAM)"
       },
       {
-         "ID": "AMZ3",
+         "ID": "AMZ4",
          "Price": "$209.99",
          "Product": "GeeekPi Raspberry Pi 4 4GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
       },
       {
-         "ID": "AMZ4",
+         "ID": "AMZ5",
          "Price": "$164.99",
          "Product": "Raspberry Pi 4 Model B 8GB"
       },
       {
-         "ID": "AMZ5",
+         "ID": "AMZ6",
          "Price": "$279.99",
          "Product": "GeeekPi Raspberry Pi 4 8GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (8GB RAM)"
       },
       {
-         "ID": "AMZ6",
+         "ID": "AMZ7",
          "Price": "$129.99",
          "Product": "Raspberry Pi 4B Starter KIT, 4GB, BLK"
       },
       {
-         "ID": "AMZ7",
+         "ID": "AMZ8",
          "Price": "$279.99",
          "Product": "iUniker Raspberry Pi 4 8GB Max Kit, 64GB Edition, with 20W 5V 4.0A Raspberry Pi 4 Power Supply, 4K HDMI Cable, Raspberry Pi 4 Case with Fan (8GB RAM)"
       },
       {
-         "ID": "AMZ8",
+         "ID": "AMZ9",
          "Price": "$265.99",
          "Product": "RasTech Raspberry Pi 4 8GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cable, Card Reader, Copper Heatsink, Screwdriver"
       },
       {
-         "ID": "AMZ9",
-         "Price": "$224.99",
-         "Product": "MARSTUDY Raspberry Pi 4 Model B Ultimate Starter Kit -64GB Edition/Raspberry Pi 4B (4GB RAM) /Raspberry Pi OS Pre-Installed"
-      },
-      {
          "ID": "AMZ10",
-         "Price": "$207.99",
-         "Product": "RasTech Raspberry Pi 4 4GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cables, Copper Heatsinks, Card Reader, Screwdriver(4GB RAM)"
-      },
-      {
-         "ID": "AMZ11",
          "Price": "$299.99",
          "Product": "GeeekPi Raspberry Pi 4 8GB Kit - 64GB Edition, DeskPi Lite Raspberry Pi 4 Case with Power Button/ Heatsink with PWM Fan, QC3.0 Power Supply, HDMI Cable, Card Reader for Raspberry Pi 4B (8GB RAM)"
       },
       {
+         "ID": "AMZ11",
+         "Price": "$224.99",
+         "Product": "MARSTUDY Raspberry Pi 4 Model B Ultimate Starter Kit -64GB Edition/Raspberry Pi 4B (4GB RAM) /Raspberry Pi OS Pre-Installed"
+      },
+      {
          "ID": "AMZ12",
-         "Price": "$199.99",
-         "Product": "GeeekPi Raspberry Pi 4 2GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, 2PCS HDMI Cables for Raspberry Pi 4B (2GB RAM)"
+         "Price": "$207.99",
+         "Product": "RasTech Raspberry Pi 4 4GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cables, Copper Heatsinks, Card Reader, Screwdriver(4GB RAM)"
       },
       {
          "ID": "AMZ13",
-         "Price": "$157.00",
-         "Product": "Raspberry Pi Compute Module 4 (CM4) - 4GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4104032)"
-      },
-      {
-         "ID": "AMZ14",
-         "Price": "$225.99",
-         "Product": "Vemico Raspberry Pi 4 Model B 4GB Set RAM 4GB Base Starter Kit with SD Card, Heatsinks, HDMI Cable, Power Supply, Black Case, Reading Card Device, Screwdriver"
-      },
-      {
-         "ID": "AMZ15",
          "Price": "$159.95",
          "Product": "Vis Viva Raspberry Pi 4 Model B Starter Kit (1GB)"
       },
       {
+         "ID": "AMZ14",
+         "Price": "$157.00",
+         "Product": "Raspberry Pi Compute Module 4 (CM4) - 4GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4104032)"
+      },
+      {
+         "ID": "AMZ15",
+         "Price": "$225.99",
+         "Product": "Vemico Raspberry Pi 4 Model B 4GB Set RAM 4GB Base Starter Kit with SD Card, Heatsinks, HDMI Cable, Power Supply, Black Case, Reading Card Device, Screwdriver"
+      },
+      {
          "ID": "AMZ16",
+         "Price": "$199.99",
+         "Product": "GeeekPi Raspberry Pi 4 2GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, 2PCS HDMI Cables for Raspberry Pi 4B (2GB RAM)"
+      },
+      {
+         "ID": "AMZ17",
          "Price": "$276.99",
          "Product": "DVOZVO Raspberry Pi 4 8GB Starter Kit, 5V 4A Raspberry Pi 4 Power Supply with ON/Off Switch,Raspberry Pi 4 Aluminum Case,4K HDMI Cables for Raspberry Pi 4B - 64GB Edition (8GB RAM)"
       },
       {
-         "ID": "AMZ17",
+         "ID": "AMZ18",
          "Price": "$229.99",
          "Product": "GeeekPi Raspberry Pi 4 4GB Kit - 64GB Edition, DeskPi Lite Raspberry Pi 4 Case with Power Button/Heatsink/PWM Fan, Raspberry Pi 4 Power Supply for Raspberry Pi 4B"
       },
       {
-         "ID": "AMZ18",
-         "Price": "$189.99",
-         "Product": "RasTech Raspberry Pi 4 2GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cable, Copper Heatsinks, Card Reader, Screwdriver (2GB RAM)"
-      },
-      {
          "ID": "AMZ19",
-         "Price": "$267.99",
-         "Product": "Raspberry Pi Compute Module 4 with CM4 heatsink PWM Fan, CM4 8GB RAM 32GB eMMC Single Board 64-Bit Quad-Core Processor Bluetooth 5.0 Dual-Band WiFi (CM4108032)"
-      },
-      {
-         "ID": "AMZ20",
          "Price": "$148.00",
          "Product": "Embedded Works Raspberry Pi 4 Kit | 4GB RAM | Quad Core 64 Bit WiFi Bluetooth (Full Kit)"
       },
       {
+         "ID": "AMZ20",
+         "Price": "$189.99",
+         "Product": "RasTech Raspberry Pi 4 2GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cable, Copper Heatsinks, Card Reader, Screwdriver (2GB RAM)"
+      },
+      {
          "ID": "AMZ21",
-         "Price": "$259.99",
-         "Product": "Marstudy Raspberry Pi 4 Model B Starter Kit -64GB Edition/Raspberry Pi 4B (8GB RAM) /Raspberry Pi OS Pre-Installed"
+         "Price": "$267.99",
+         "Product": "Raspberry Pi Compute Module 4 with CM4 heatsink PWM Fan, CM4 8GB RAM 32GB eMMC Single Board 64-Bit Quad-Core Processor Bluetooth 5.0 Dual-Band WiFi (CM4108032)"
       },
       {
          "ID": "AMZ22",
-         "Price": "$199.99",
-         "Product": "MazerPi Raspberry Pi 4 4GB Max Kit - 64GB Edition, Raspberry Pi 4 Case with Fan, 20W 5V 4A Raspberry Pi 4 Power Supply with ON/Off Switch, HDMI Cable for Pi 4B (4GB RAM)"
+         "Price": "$259.99",
+         "Product": "Marstudy Raspberry Pi 4 Model B Starter Kit -64GB Edition/Raspberry Pi 4B (8GB RAM) /Raspberry Pi OS Pre-Installed"
       }
    ],
    "CANAKIT": [
