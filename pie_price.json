@@ -1,25 +1,25 @@
 {
-   "Date": "2023-06-13T06:22:41.236Z",
+   "Date": "2023-06-14T06:22:29.679Z",
    "AMZ": [
       {
          "ID": "AMZ0",
-         "Price": "$106.99",
+         "Price": "$99.99",
          "Product": "Raspberry Pi 4 Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc."
       },
       {
          "ID": "AMZ1",
-         "Price": "$84.99",
-         "Product": "Raspberry Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)"
+         "Price": "$69.90",
+         "Product": "Raspberry SC15184 Pi 4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (2GB)"
       },
       {
          "ID": "AMZ2",
-         "Price": "$169.99",
-         "Product": "CanaKit Raspberry Pi 4 Extreme Kit - 128GB Edition (4GB RAM)"
+         "Price": "$189.99",
+         "Product": "CanaKit Raspberry Pi 4 Extreme Kit - Aluminum Edition (8GB RAM)"
       },
       {
          "ID": "AMZ3",
-         "Price": "$189.99",
-         "Product": "CanaKit Raspberry Pi 4 Extreme Kit - Aluminum Edition (8GB RAM)"
+         "Price": "$169.99",
+         "Product": "CanaKit Raspberry Pi 4 Extreme Kit - 128GB Edition (4GB RAM)"
       },
       {
          "ID": "AMZ4",
@@ -28,28 +28,28 @@
       },
       {
          "ID": "AMZ5",
-         "Price": "$199.99",
-         "Product": "GeeekPi Raspberry Pi 4 8GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (8GB RAM)"
+         "Price": "$134.99",
+         "Product": "Vilros Basic Starter Kit for Raspberry Pi 4 with Fan Cooled ABS Case-Includes Raspberry Pi 4 Board and 7 Accessories (4GB, Clear Transparent Case)"
       },
       {
          "ID": "AMZ6",
+         "Price": "$139.99",
+         "Product": "Vilros Raspberry Pi 4 4GB Basic Starter Kit with Fan-Cooled Heavy-Duty Aluminum Alloy Case"
+      },
+      {
+         "ID": "AMZ7",
          "Price": "$114.99",
          "Product": "Raspberry Pi 4 Model B Kit - 4GB RAM, 32GB SSD, Heatsink, HDMI Cables, Raspberry Pi Foundation Official Power Supply and Case Single Board Computer Store"
       },
       {
-         "ID": "AMZ7",
-         "Price": "$169.99",
-         "Product": "GeeekPi Raspberry Pi 4 4GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
-      },
-      {
          "ID": "AMZ8",
-         "Price": "$159.99",
-         "Product": "Vilros Raspberry Pi 4 8GB Basic Starter Kit with Fan Cooled Heavy Duty Aluminum Alloy Case (Black Case)"
+         "Price": "$189.99",
+         "Product": "iUniker Raspberry Pi 4 8GB Max Kit, 64GB Edition, with 20W 5V 4.0A Raspberry Pi 4 Power Supply, 4K HDMI Cable, Raspberry Pi 4 Case with Fan (8GB RAM)"
       },
       {
          "ID": "AMZ9",
-         "Price": "$189.99",
-         "Product": "iUniker Raspberry Pi 4 8GB Max Kit, 64GB Edition, with 20W 5V 4.0A Raspberry Pi 4 Power Supply, 4K HDMI Cable, Raspberry Pi 4 Case with Fan (8GB RAM)"
+         "Price": "$98.86",
+         "Product": "Raspberry Pi 400 Unit - US"
       },
       {
          "ID": "AMZ10",
@@ -58,178 +58,68 @@
       },
       {
          "ID": "AMZ11",
+         "Price": "$170.00",
+         "Product": "Argon NEO Case with Raspberry Pi 4 (4 Gig) Kit | 64 Gig SD Card | Micro HDMI to HDMI Cable | Type-C Power Supply | Quick Start Guide for Raspberry Pi 4"
+      },
+      {
+         "ID": "AMZ12",
+         "Price": "$169.99",
+         "Product": "GeeekPi Raspberry Pi 4 4GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
+      },
+      {
+         "ID": "AMZ13",
          "Price": "$119.99",
          "Product": "Raspberry Pi 4B Starter KIT, 4GB, BLK"
       },
       {
-         "ID": "AMZ12",
-         "Price": "$229.99",
-         "Product": "GeeekPi Raspberry Pi 4 8GB Kit - 64GB Edition, DeskPi Lite Raspberry Pi 4 Case with Power Button/Heatsink with PWM Fan, QC3.0 Power Supply, HDMI Cable, Card Reader for Raspberry Pi 4B (8GB RAM)"
-      },
-      {
-         "ID": "AMZ13",
-         "Price": "$179.99",
-         "Product": "Vilros Raspberry Pi 4 8GB Complete Starter Kit with Fan Cooled Heavy Duty Aluminum Alloy Case (Black Case)"
-      },
-      {
          "ID": "AMZ14",
-         "Price": "$189.90",
-         "Product": "DVOZVO Raspberry Pi 4 8GB Starter Kit, 5V 4A Raspberry Pi 4 Power Supply with ON/Off Switch,Raspberry Pi 4 Aluminum Case,4K HDMI Cables for Raspberry Pi 4B - 64GB Edition (8GB RAM)"
-      },
-      {
-         "ID": "AMZ15",
-         "Price": "$159.99",
-         "Product": "GeeekPi Raspberry Pi 4 2GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, 2PCS HDMI Cables for Raspberry Pi 4B (2GB RAM)"
-      },
-      {
-         "ID": "AMZ16",
-         "Price": "$159.00",
-         "Product": "Raspberry Pi Compute Module 4 (CM4) - 4GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4104032)"
-      },
-      {
-         "ID": "AMZ17",
          "Price": "$155.95",
          "Product": "Vis Viva Raspberry Pi 4 Model B Starter Kit (1GB)"
       },
       {
-         "ID": "AMZ18",
+         "ID": "AMZ15",
          "Price": "$89.00",
          "Product": "Vemico Raspberry Pi 4 Model B 4GB for Game Emulator/Mini PC/Artificial Intelligence/Printer/Workstation/Media Center/File Storage Server/Etc"
       },
       {
-         "ID": "AMZ19",
-         "Price": "$179.99",
-         "Product": "RasTech Raspberry Pi 4 4GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cables, Copper Heatsinks, Card Reader, Screwdriver(4GB RAM)"
-      },
-      {
-         "ID": "AMZ20",
+         "ID": "AMZ16",
          "Price": "$189.99",
-         "Product": "GeeekPi Raspberry Pi 4 4GB Kit - 64GB Edition, DeskPi Lite Raspberry Pi 4 Case with Power Button/Heatsink/PWM Fan, Raspberry Pi 4 Power Supply for Raspberry Pi 4B"
+         "Product": "GeeekPi Raspberry Pi 4 8GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (8GB RAM)"
       },
       {
-         "ID": "AMZ21",
+         "ID": "AMZ17",
+         "Price": "$179.99",
+         "Product": "Vilros Raspberry Pi 4 8GB Complete Starter Kit with Fan Cooled Heavy Duty Aluminum Alloy Case (Black Case)"
+      },
+      {
+         "ID": "AMZ18",
          "Price": "$79.99",
-         "Product": "Vilros Basic Starter Kit for Raspberry Pi 4 with Fan Cooled ABS Case Includes Raspberry Pi 4 Board and 7 Accessories (8GB, Clear Transparent Case) (8GB, Clear Transparent Case)"
-      },
-      {
-         "ID": "AMZ22",
-         "Price": "$69.99",
          "Product": "Pironman Mini PC Case for Raspberry Pi - Aluminum Alloy Tower Case with Fan, Tower Cooler, M.2 SATA SSD Expansion Board, 0.96\" OLED, IR Receiver and Power Button for Raspberry Pi 4"
       },
       {
-         "ID": "AMZ23",
-         "Price": "$49.95",
+         "ID": "AMZ19",
+         "Price": "$32.97",
+         "Product": "Raspberry Pi Zero W (Wireless) ( 2017 model)"
+      },
+      {
+         "ID": "AMZ20",
+         "Price": "$68.99",
          "Product": "Raspberry Pi 3 Model B+ Board (3B+)"
       },
       {
-         "ID": "AMZ24",
-         "Price": "$47.00",
-         "Product": "FREENOVE Ultimate Starter Kit for Raspberry Pi 4 B 3 B+ 400, 558-Page Detailed Tutorial, Python C Java Scratch Code, 223 Items, 104 Projects"
+         "ID": "AMZ21",
+         "Price": "$69.95",
+         "Product": "FREENOVE Tank Robot Kit for Raspberry Pi 4 B 3 B+ B A+, Crawler Chassis, Grab Objects, Ball Tracing, Line Tracking, Obstacle Avoidance, Ultrasonic Camera Servo App (Raspberry Pi NOT Included)"
       },
       {
-         "ID": "AMZ25",
-         "Price": "$89.99",
-         "Product": "Argon ONE M.2 Aluminum Case for Raspberry Pi 4 with SATA SSD Support | Power Button and Fan | Compatible B-Key and B+M Key"
-      },
-      {
-         "ID": "AMZ26",
+         "ID": "AMZ22",
          "Price": "$89.99",
          "Product": "Raspberry Pi Official 7 Inch Touch Screen for Raspberry Pi 4 / pi 3/pi 2 Model B"
       },
       {
-         "ID": "AMZ27",
-         "Price": "$99.99",
-         "Product": "Raspberry Pi Compute Module 4-2GB RAM eMMC 0GB (Lite) Single Board (CM4002000) 64-Bit 1.5GHZ Quad-Core Processor Bluetooth 5.0 No Wi-Fi for Networked Ai Core and More (Raspberry Pi Official Genuine)"
-      },
-      {
-         "ID": "AMZ28",
-         "Price": "$169.99",
-         "Product": "Geekworm KVM-A8 PCIe Version for Raspberry Pi 4 Model B KVM Over IP Support PiKVM V3 PoE ATX HDMI CSI (Not Include Raspberry Pi)"
-      },
-      {
-         "ID": "AMZ29",
-         "Price": "$104.89",
-         "Product": "Osprey Electronics Raspberry Pi 4 4GB Starter Kit, Raspberry Pi 4 Case with PWM Fan, Raspberry 15W 5V 3A Power Supply, Type-C Charging Cable for Raspberry Pi 4B (4GB RAM)"
-      },
-      {
-         "ID": "AMZ30",
-         "Price": "$59.95",
-         "Product": "seeed studio Raspberry Pi 400 Personal Computer in Keyboard Form Cortex A72 CPU Dual 4K HD - (Only Keyboard)"
-      },
-      {
-         "ID": "AMZ31",
-         "Price": "$58.88",
-         "Product": "Raspberry Pi 400 All-in-One Quad-Core 64 Bit 4GB Ram Dual Band WiFi Bluetooth 5.0 BLE Dual 4K Output Complete Personal Computer Kit Built Into A Compact Keyboard – You just Need to add a Monitor! "
-      },
-      {
-         "ID": "AMZ32",
-         "Price": "$109.99",
-         "Product": "FREENOVE Complete Starter Kit for Raspberry Pi 4 B 3 B+ 400, Python C Java Scratch Code, 708-Page Tutorial, 138 Projects, 386 Items, Camera Speaker Sound Sensor (Raspberry Pi NOT Included)"
-      },
-      {
-         "ID": "AMZ33",
-         "Price": "$100.00",
-         "Product": "SunFounder Ultimate Starter Kit for Raspberry Pi 4 B 3 B+ 400, Python C Java Scratch Node.js, Detailed Online Tutorials, 161 Projects, 337 Items (Camera Module, Speaker, I2C LCD, etc)"
-      },
-      {
-         "ID": "AMZ34",
-         "Price": "$199.99",
-         "Product": "Vilros Raspberry Pi 4 4GB with USB-C & Micro HDMI Adapters Quickstart Guide E-Book"
-      },
-      {
-         "ID": "AMZ35",
-         "Price": "$189.99",
-         "Product": "Raspberry Pi 400 Unit - US"
-      },
-      {
-         "ID": "AMZ36",
-         "Price": "$69.95",
-         "Product": "iRasptek Raspberry Pi 4 8GB RAM Starter Kit - 128GB Edition,Noobs Preinstalled,5V 3.5A Power Supply,HDMI Cable,Heatsink,Transparent Case and Cooling Fan,Card Reader,GPIO Reference Card"
-      },
-      {
-         "ID": "AMZ37",
-         "Price": "$170.00",
-         "Product": "UCTRONICS Ultimate Rack with PoE Functionality for Raspberry Pi 4, 19\" 1U Rackmount with PoE HAT, All IO on One Side, OLED Display, Power Switch, and Cooling Fan"
-      },
-      {
-         "ID": "AMZ38",
-         "Price": "$192.99",
-         "Product": "Freenove 4WD Smart Car Kit for Raspberry Pi 4 B 3 B+ B A+, Face Tracking, Line Tracking, Light Tracing, Obstacle Avoidance, Colorful Light, Ultrasonic Camera Servo (Raspberry Pi NOT Included)"
-      },
-      {
-         "ID": "AMZ39",
-         "Price": "$145.00",
-         "Product": "Argon NEO Case with Raspberry Pi 4 (4 Gig) Kit | 64 Gig SD Card | Micro HDMI to HDMI Cable | Type-C Power Supply | Quick Start Guide for Raspberry Pi 4"
-      },
-      {
-         "ID": "AMZ40",
-         "Price": "$39.79",
-         "Product": "Vemico Raspberry Pi 4 Model B 4GB Set RAM 4GB Base Starter Kit with SD Card, Heatsinks, HDMI Cable, Power Supply, Black Case, Reading Card Device, Screwdriver"
-      },
-      {
-         "ID": "AMZ41",
-         "Price": "$129.00",
-         "Product": "Raspberry Pi 400 Computer Kit US Keyboard Layout - 16 GB, W125890265 (US Keyboard Layout - 16 GB microSD-Kort, 1 m mikro-HDMI til HDMI A-Kabel -)"
-      },
-      {
-         "ID": "AMZ42",
-         "Price": "$79.99",
-         "Product": "Raspberry Pi RASPBERRYPI-SENSEHAT Sense HAT with Orientation, Pressure, Humidity and Temperature Sensors"
-      },
-      {
-         "ID": "AMZ43",
-         "Price": "$177.99",
-         "Product": "Raspberry Pi 4 Model B 2GB for Game Emulator/Mini PC/Artificial Intelligence/Printer/Workstation/Media Center/File Storage Server/Etc"
-      },
-      {
-         "ID": "AMZ44",
-         "Price": "$53.99",
-         "Product": "UCTRONICS Upgraded Complete Enclosure for Raspberry Pi Cluster, Compatible with Pi 4B, 3B+/3B, and Other B Model, House Up to 4×2.5\" SSD, Support PoE/PoE+ HAT and Switch, 2 Cooling Fans"
-      },
-      {
-         "ID": "AMZ45",
-         "Price": "$69.95",
-         "Product": "RasTech Raspberry Pi 4 2GB Starter Kit with 32GB Micro SD Card, Power Supply with ON/Off, Case, Cooling Fan, HDMI Cable, Copper Heatsinks, Card Reader, Screwdriver (2GB RAM)"
+         "ID": "AMZ23",
+         "Price": "$48.89",
+         "Product": "wisecoco Touchscreen Monitor 7 Inch HDMI Touchscreen IPS 1024 x 600 Mini LCD Display for Raspberry Pi 4 3 2 Zero B B+ Computer Case Secondary Screen"
       }
    ],
    "CANAKIT": [
