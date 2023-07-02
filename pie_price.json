@@ -1,5 +1,5 @@
 {
-   "Date": "2023-07-01T06:24:41.422Z",
+   "Date": "2023-07-02T06:23:56.349Z",
    "AMZ": [
       {
          "ID": "AMZ0",
@@ -18,63 +18,63 @@
       },
       {
          "ID": "AMZ3",
-         "Price": "$88.00",
-         "Product": "RasTech Raspberry Pi 4 4GB Model B 1.5GHz Quad-core Cortex-A72 64-bit,Support Dual 4K Display,PoE Enable,40-pin GPIO,Wireless LAN 2.4 GHz,Bluetooth 5.0,USB-C Power Supply Port"
-      },
-      {
-         "ID": "AMZ4",
          "Price": "$98.00",
          "Product": "Raspberry Pi 4 Model B 8GB"
       },
       {
-         "ID": "AMZ5",
+         "ID": "AMZ4",
          "Price": "$189.99",
          "Product": "CanaKit Raspberry Pi 4 Extreme Kit - Aluminum Edition (8GB RAM)"
       },
       {
+         "ID": "AMZ5",
+         "Price": "$88.00",
+         "Product": "RasTech Raspberry Pi 4 4GB Model B 1.5GHz Quad-core Cortex-A72 64-bit,Support Dual 4K Display,PoE Enable,40-pin GPIO,Wireless LAN 2.4 GHz,Bluetooth 5.0,USB-C Power Supply Port"
+      },
+      {
          "ID": "AMZ6",
-         "Price": "$113.00",
-         "Product": "RasTech Raspberry Pi 4 8GB Model B 1.5GHz Quad-core Cortex-A72 64-bit,Support Dual 4K Display,PoE Enable,40-pin GPIO,Wireless LAN 2.4 GHz,Bluetooth 5.0,USB-C Power Supply Port"
-      },
-      {
-         "ID": "AMZ7",
-         "Price": "$85.00",
-         "Product": "Vemico Raspberry Pi 4 Model B 4GB for Game Emulator/Mini PC/Artificial Intelligence/Printer/Workstation/Media Center/File Storage Server/Etc"
-      },
-      {
-         "ID": "AMZ8",
          "Price": "$189.99",
          "Product": "GeeekPi Raspberry Pi 4 8GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (8GB RAM)"
       },
       {
-         "ID": "AMZ9",
-         "Price": "$139.99",
-         "Product": "Vilros Basic Starter Kit for Raspberry Pi 4 with Fan Cooled ABS Case Includes Raspberry Pi 4 Board and 7 Accessories (8GB, Clear Transparent Case)"
-      },
-      {
-         "ID": "AMZ10",
+         "ID": "AMZ7",
          "Price": "$169.99",
          "Product": "GeeekPi Raspberry Pi 4 4GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
       },
       {
-         "ID": "AMZ11",
+         "ID": "AMZ8",
+         "Price": "$139.99",
+         "Product": "Vilros Basic Starter Kit for Raspberry Pi 4 with Fan Cooled ABS Case Includes Raspberry Pi 4 Board and 7 Accessories (8GB, Clear Transparent Case)"
+      },
+      {
+         "ID": "AMZ9",
          "Price": "$144.99",
          "Product": "Vilros Raspberry Pi 4 8GB Basic Starter Kit with Fan Cooled Heavy Duty Aluminum Alloy Case (Black Case)"
       },
       {
-         "ID": "AMZ12",
+         "ID": "AMZ10",
+         "Price": "$139.99",
+         "Product": "CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM"
+      },
+      {
+         "ID": "AMZ11",
          "Price": "$159.99",
          "Product": "CanaKit Raspberry Pi 4 4GB Starter MAX Kit - 64GB Edition"
       },
       {
-         "ID": "AMZ13",
+         "ID": "AMZ12",
          "Price": "$189.99",
          "Product": "iUniker Raspberry Pi 4 8GB Max Kit, 64GB Edition, with 20W 5V 4.0A Raspberry Pi 4 Power Supply, 4K HDMI Cable, Raspberry Pi 4 Case with Fan (8GB RAM)"
       },
       {
+         "ID": "AMZ13",
+         "Price": "$199.99",
+         "Product": "iRasptek Raspberry Pi 4 8GB RAM Starter Kit - 128GB Edition,Noobs Preinstalled,5V 3.5A Power Supply,HDMI Cable,Heatsink,Transparent Case and Cooling Fan,Card Reader,GPIO Reference Card"
+      },
+      {
          "ID": "AMZ14",
-         "Price": "$139.99",
-         "Product": "CanaKit Raspberry Pi 4 4GB Starter PRO Kit - 4GB RAM"
+         "Price": "$159.00",
+         "Product": "Raspberry Pi Compute Module 4 (CM4) - 4GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4104032)"
       },
       {
          "ID": "AMZ15",
@@ -83,18 +83,18 @@
       },
       {
          "ID": "AMZ16",
-         "Price": "$199.99",
-         "Product": "iRasptek Raspberry Pi 4 8GB RAM Starter Kit - 128GB Edition,Noobs Preinstalled,5V 3.5A Power Supply,HDMI Cable,Heatsink,Transparent Case and Cooling Fan,Card Reader,GPIO Reference Card"
+         "Price": "$119.99",
+         "Product": "Vilros Raspberry Pi 4 8GB with USB-C & Micro HDMI Adapters Quickstart Guide E-Book (8GB)"
       },
       {
          "ID": "AMZ17",
-         "Price": "$159.00",
-         "Product": "Raspberry Pi Compute Module 4 (CM4) - 4GB RAM, 32GB eMMC, 2.4/5.0GHz Wi-Fi & Bluetooth 5.0 (CM4104032)"
+         "Price": "$119.99",
+         "Product": "Raspberry Pi 4B Starter KIT, 4GB, BLK"
       },
       {
          "ID": "AMZ18",
-         "Price": "$119.99",
-         "Product": "Raspberry Pi 4B Starter KIT, 4GB, BLK"
+         "Price": "$135.99",
+         "Product": "Raspberry Pi Compute Module 4 with CM4 heatsink PWM Fan, CM4 4GB RAM 0GB (Lite) Single Board 64-Bit Quad-Core Processor Bluetooth 5.0 Dual-Band WiFi (CM4104000)"
       },
       {
          "ID": "AMZ19",
@@ -103,18 +103,18 @@
       },
       {
          "ID": "AMZ20",
-         "Price": "$199.99",
-         "Product": "GeeekPi Raspberry Pi 4 8GB Kit - 64GB Edition, DeskPi Lite Raspberry Pi 4 Case with Power Button/Heatsink with PWM Fan, QC3.0 Power Supply, HDMI Cable, Card Reader for Raspberry Pi 4B (8GB RAM)"
+         "Price": "$63.99",
+         "Product": "Raspberry Pi 3 Model B+ Board (3B+)"
       },
       {
          "ID": "AMZ21",
-         "Price": "$119.99",
-         "Product": "Vilros Raspberry Pi 4 8GB with USB-C & Micro HDMI Adapters Quickstart Guide E-Book (8GB)"
+         "Price": "$89.99",
+         "Product": "Raspberry Pi Official 7 Inch Touch Screen for Raspberry Pi 4 / pi 3/pi 2 Model B"
       },
       {
          "ID": "AMZ22",
-         "Price": "$63.99",
-         "Product": "Raspberry Pi 3 Model B+ Board (3B+)"
+         "Price": "$126.99",
+         "Product": "sb components Raspberry Pi 400 Kit - US Layout"
       },
       {
          "ID": "AMZ23",
@@ -139,11 +139,11 @@
       },
       {
          "ID": "AMZ28",
-         "Price": "$83..00"
+         "Price": "$88..00"
       },
       {
          "ID": "AMZ29",
-         "Price": "$88..00"
+         "Price": "$83..00"
       }
    ],
    "CANAKIT": [
