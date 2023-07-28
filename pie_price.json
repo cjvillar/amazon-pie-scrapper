@@ -1,165 +1,125 @@
 {
-   "Date": "2023-07-27T06:22:05.128Z",
+   "Date": "2023-07-28T06:22:11.204Z",
    "AMZ": [
       {
          "ID": "AMZ0",
-         "Price": "$93.95",
-         "Product": "Raspberry"
+         "Price": "$71.28"
       },
       {
          "ID": "AMZ1",
-         "Price": "$71.90",
-         "Product": " "
+         "Price": "$93.95"
       },
       {
          "ID": "AMZ2",
-         "Price": "$169.99",
-         "Product": "Pi"
+         "Price": "$169.99"
       },
       {
          "ID": "AMZ3",
-         "Price": "$159.99",
-         "Product": " "
+         "Price": "$96.00"
       },
       {
          "ID": "AMZ4",
-         "Price": "$189.99",
-         "Product": "4"
+         "Price": "$99.99"
       },
       {
          "ID": "AMZ5",
-         "Price": "$139.99",
-         "Product": " Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc."
+         "Price": "$189.99"
       },
       {
          "ID": "AMZ6",
-         "Price": "$88.00",
-         "Product": "Raspberry"
+         "Price": "$139.99"
       },
       {
          "ID": "AMZ7",
-         "Price": "$219.00",
-         "Product": " "
+         "Price": "$139.99"
       },
       {
          "ID": "AMZ8",
-         "Price": "$99.99",
-         "Product": "Pi"
+         "Price": "$85.00"
       },
       {
          "ID": "AMZ9",
-         "Price": "$110.00",
-         "Product": " "
+         "Price": "$144.99"
       },
       {
          "ID": "AMZ10",
-         "Price": "$144.99",
-         "Product": "4"
+         "Price": "$159.99"
       },
       {
          "ID": "AMZ11",
-         "Price": "$169.99",
-         "Product": " Model B 2019 Quad Core 64 Bit WiFi Bluetooth (4GB)"
+         "Price": "$184.99"
       },
       {
          "ID": "AMZ12",
-         "Price": "$99.99",
-         "Product": "CanaKit "
+         "Price": "$149.99"
       },
       {
          "ID": "AMZ13",
-         "Price": "$184.99",
-         "Product": "Raspberry"
+         "Price": "$124.99"
       },
       {
          "ID": "AMZ14",
-         "Price": "$169.99",
-         "Product": " "
+         "Price": "$169.99"
       },
       {
          "ID": "AMZ15",
-         "Price": "$179.99",
-         "Product": "Pi"
+         "Price": "$159.99"
       },
       {
          "ID": "AMZ16",
-         "Price": "$85.00",
-         "Product": " "
+         "Price": "$123.99"
       },
       {
          "ID": "AMZ17",
-         "Price": "$80.50",
-         "Product": "4"
+         "Price": "$35.99"
       },
       {
          "ID": "AMZ18",
-         "Price": "$169.99",
-         "Product": " Extreme Kit - 128GB Edition (4GB RAM)"
+         "Price": "$35.00"
       },
       {
          "ID": "AMZ19",
-         "Price": "$124.99",
-         "Product": "CanaKit "
+         "Price": "$69.99"
       },
       {
          "ID": "AMZ20",
-         "Price": "$149.99",
-         "Product": "Raspberry"
+         "Price": "$89.99"
       },
       {
          "ID": "AMZ21",
-         "Price": "$179.49",
-         "Product": " "
+         "Price": "$99.99"
       },
       {
          "ID": "AMZ22",
-         "Price": "$155.95",
-         "Product": "Pi"
+         "Price": "$45.99"
       },
       {
          "ID": "AMZ23",
-         "Price": "$269.99",
-         "Product": " "
+         "Price": "$89.99"
       },
       {
          "ID": "AMZ24",
-         "Price": "$71..90",
-         "Product": "4"
+         "Price": "$71..28"
       },
       {
          "ID": "AMZ25",
-         "Price": "$93..95",
-         "Product": " 8GB Starter Kit - 8GB RAM"
+         "Price": "$93..95"
       },
       {
          "ID": "AMZ26",
-         "Price": "$159..99",
-         "Product": "CanaKit "
+         "Price": "$159..99"
       },
       {
          "ID": "AMZ27",
-         "Price": "$169..99",
-         "Product": "Raspberry"
+         "Price": "$169..99"
       },
       {
          "ID": "AMZ28",
-         "Price": "$159..99",
-         "Product": " "
+         "Price": "$96..00"
       },
       {
          "ID": "AMZ29",
-         "Price": "$144..99",
-         "Product": "Pi"
-      },
-      {
-         "ID": "AMZ30",
-         "Price": "$71..90",
-         "Product": " "
-      },
-      {
-         "ID": "AMZ31",
-         "Price": "$139..99",
-         "Product": "4"
+         "Price": "$99..99"
       }
    ],
    "CANAKIT": [
