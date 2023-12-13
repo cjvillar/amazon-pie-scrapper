@@ -1,230 +1,34 @@
 [
   {
-    "Date": "2023-12-13T16:18:48.806Z",
-    "AveragePrice": "108.70"
+      "Date": "2023-12-13T16:18:48.806Z",
+      "AveragePrice": "108.70"
   },
   {
-    "Date": "2023-12-13T06:23:54.659Z",
-    "AveragePrice": "106.81"
+      "Date": "2023-11-30T06:23:50.935Z",
+      "AveragePrice": "110.32"
   },
   {
-    "Date": "2023-12-12T06:24:13.153Z",
-    "AveragePrice": "104.92"
+      "Date": "2023-10-31T06:23:04.883Z",
+      "AveragePrice": "NaN"
   },
   {
-    "Date": "2023-12-12T01:27:24.704Z",
-    "AveragePrice": "NaN"
+      "Date": "2023-09-30T06:21:38.909Z",
+      "AveragePrice": "157.45"
   },
   {
-    "Date": "2023-12-11T06:24:31.453Z",
-    "AveragePrice": "NaN"
+      "Date": "2023-08-31T06:22:16.326Z",
+      "AveragePrice": "157.45"
   },
   {
-    "Date": "2023-12-10T06:22:09.326Z",
-    "AveragePrice": "103.47"
+      "Date": "2023-07-31T06:23:14.508Z",
+      "AveragePrice": "128.46"
   },
   {
-    "Date": "2023-12-09T06:22:14.924Z",
-    "AveragePrice": "NaN"
+      "Date": "2023-06-30T06:25:39.776Z",
+      "AveragePrice": "125.97"
   },
   {
-    "Date": "2023-12-08T06:24:02.311Z",
-    "AveragePrice": "103.03"
-  },
-  {
-    "Date": "2023-12-07T06:24:15.197Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-12-06T06:23:59.387Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-12-05T06:24:20.956Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-12-04T06:24:45.880Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-12-03T06:21:53.117Z",
-    "AveragePrice": "97.44"
-  },
-  {
-    "Date": "2023-12-02T06:22:16.186Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-12-01T06:24:39.596Z",
-    "AveragePrice": "103.16"
-  },
-  {
-    "Date": "2023-11-30T06:23:50.935Z",
-    "AveragePrice": "110.32"
-  },
-  {
-    "Date": "2023-11-29T06:24:04.832Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-28T06:24:11.753Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-27T06:24:21.398Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-26T06:22:04.402Z",
-    "AveragePrice": "109.07"
-  },
-  {
-    "Date": "2023-11-25T06:21:52.490Z",
-    "AveragePrice": "119.53"
-  },
-  {
-    "Date": "2023-11-24T06:23:48.783Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-23T06:23:45.169Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-22T06:24:37.746Z",
-    "AveragePrice": "108.20"
-  },
-  {
-    "Date": "2023-11-21T06:24:26.392Z",
-    "AveragePrice": "116.08"
-  },
-  {
-    "Date": "2023-11-20T06:24:54.174Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-19T06:22:15.204Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-18T06:22:03.487Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-17T06:24:11.694Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-16T06:24:10.514Z",
-    "AveragePrice": "103.78"
-  },
-  {
-    "Date": "2023-11-15T06:24:03.476Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-14T06:23:47.824Z",
-    "AveragePrice": "104.45"
-  },
-  {
-    "Date": "2023-11-13T06:23:43.373Z",
-    "AveragePrice": "106.06"
-  },
-  {
-    "Date": "2023-11-12T06:21:39.095Z",
-    "AveragePrice": "119.03"
-  },
-  {
-    "Date": "2023-11-11T06:21:41.647Z",
-    "AveragePrice": "101.59"
-  },
-  {
-    "Date": "2023-11-10T06:23:14.984Z",
-    "AveragePrice": "104.71"
-  },
-  {
-    "Date": "2023-11-09T06:23:00.181Z",
-    "AveragePrice": "95.98"
-  },
-  {
-    "Date": "2023-11-08T06:23:26.642Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-07T06:23:03.205Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-06T06:24:04.035Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-05T06:21:26.753Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-04T06:21:41.195Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-03T06:22:58.224Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-11-02T06:22:49.419Z",
-    "AveragePrice": "122.92"
-  },
-  {
-    "Date": "2023-11-01T06:23:52.761Z",
-    "AveragePrice": "105.57"
-  },
-  {
-    "Date": "2023-10-31T06:23:04.883Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-10-30T06:23:19.271Z",
-    "AveragePrice": "122.41"
-  },
-  {
-    "Date": "2023-10-29T06:21:25.766Z",
-    "AveragePrice": "132.08"
-  },
-  {
-    "Date": "2023-10-28T06:21:25.254Z",
-    "AveragePrice": "122.87"
-  },
-  {
-    "Date": "2023-10-27T06:23:14.389Z",
-    "AveragePrice": "131.34"
-  },
-  {
-    "Date": "2023-10-27T00:59:41.200Z",
-    "AveragePrice": "NaN"
-  },
-  {
-    "Date": "2023-10-15T06:22:07.771Z",
-    "AveragePrice": "121.46"
-  },
-  {
-    "Date": "2023-09-30T06:21:38.909Z",
-    "AveragePrice": "157.45"
-  },
-  {
-    "Date": "2023-08-31T06:22:16.326Z",
-    "AveragePrice": "157.45"
-  },
-  {
-    "Date": "2023-07-31T06:23:14.508Z",
-    "AveragePrice": "128.46"
-  },
-  {
-    "Date": "2023-06-30T06:25:39.776Z",
-    "AveragePrice": "125.97"
-  },
-  {
-    "Date": "2023-05-31T06:24:32.120Z",
-    "AveragePrice": "167.91"
+      "Date": "2023-05-31T06:24:32.120Z",
+      "AveragePrice": "167.91"
   }
 ]
