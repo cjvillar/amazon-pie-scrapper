@@ -1,5 +1,5 @@
 {
-   "Date": "2024-08-16T06:27:57.182Z",
+   "Date": "2024-08-17T06:26:37.907Z",
    "AMZ": [
       {
          "ID": "AMZ0",
@@ -13,7 +13,7 @@
       },
       {
          "ID": "AMZ2",
-         "Price": "$77.90",
+         "Price": "$77.99",
          "Product": "4 Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc."
       },
       {
@@ -23,28 +23,28 @@
       },
       {
          "ID": "AMZ4",
-         "Price": "$134.99",
-         "Product": "Raspberry Pi 4 8GB Starter Kit - 128GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (8GB RAM)"
+         "Price": "$104.99",
+         "Product": "Raspberry Pi 4 Complete Starter Kit- Includes Raspberry Pi 4 Board, Fan Cooled Case, 64GB Preloaded Micro SD Card and More (4GB, Clear Transparent Case)"
       },
       {
          "ID": "AMZ5",
-         "Price": "$77.99",
-         "Product": "RasTech Raspberry Pi 4 8GB Model B 1.5GHz Quad-core Cortex-A72 64-bit,Support Dual 4K Display,PoE Enable,40-pin GPIO,Wireless LAN 2.4 GHz,Bluetooth 5.0,USB-C Power Supply Port"
-      },
-      {
-         "ID": "AMZ6",
          "Price": "$53.50",
          "Product": "4 Model B (2GB)"
       },
       {
+         "ID": "AMZ6",
+         "Price": "$134.99",
+         "Product": "Raspberry Pi 4 8GB Starter Kit - 128GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 18W 5V 3.6A Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (8GB RAM)"
+      },
+      {
          "ID": "AMZ7",
-         "Price": "$55.69",
-         "Product": "Raspberry Pi 4 2GB 1.5GHz Quad-core Cortex-A72 64-bit Dual 4K Display Wireless Bluetooth 5.0 (2GB)"
+         "Price": "$77.99",
+         "Product": "RasTech Raspberry Pi 4 8GB Model B 1.5GHz Quad-core Cortex-A72 64-bit,Support Dual 4K Display,PoE Enable,40-pin GPIO,Wireless LAN 2.4 GHz,Bluetooth 5.0,USB-C Power Supply Port"
       },
       {
          "ID": "AMZ8",
-         "Price": "$94.99",
-         "Product": "Raspberry Pi 4 Complete Starter Kit- Includes Raspberry Pi 4 Board, Fan Cooled Case, 64GB Preloaded Micro SD Card and More (2GB, Clear Transparent Case)"
+         "Price": "$55.69",
+         "Product": "Raspberry Pi 4 2GB 1.5GHz Quad-core Cortex-A72 64-bit Dual 4K Display Wireless Bluetooth 5.0 (2GB)"
       },
       {
          "ID": "AMZ9",
@@ -53,18 +53,18 @@
       },
       {
          "ID": "AMZ10",
-         "Price": "$69.99",
-         "Product": "Raspberry Pi 4 4GB with USB-C & Micro HDMI Adapters Quickstart Guide E-Book"
-      },
-      {
-         "ID": "AMZ11",
          "Price": "$104.99",
          "Product": "Raspberry Pi 4 4GB Starter Kit - 64GB Edition, Raspberry Pi 4 Case with PWM Fan, Raspberry Pi 5V 3.6A 18W Power Supply with ON/Off Switch, HDMI Cables for Raspberry Pi 4B (4GB RAM)"
       },
       {
-         "ID": "AMZ12",
+         "ID": "AMZ11",
          "Price": "$174.99",
          "Product": "Raspberry Pi 4 Extreme Kit - Aluminum Edition (8GB RAM)"
+      },
+      {
+         "ID": "AMZ12",
+         "Price": "$69.99",
+         "Product": "Raspberry Pi 4 4GB with USB-C & Micro HDMI Adapters Quickstart Guide E-Book"
       },
       {
          "ID": "AMZ13",
@@ -83,7 +83,7 @@
       },
       {
          "ID": "AMZ16",
-         "Price": "$44.90",
+         "Price": "$44.41",
          "Product": "New Raspberry Pi 3 Model B+ Board (3B+) Raspberry PI 3B+ (1GB) (3B Plus)"
       },
       {
@@ -108,13 +108,13 @@
       },
       {
          "ID": "AMZ21",
-         "Price": "$36.99",
-         "Product": "4 inch 320*480 Resistive Touch Screen TFT XPT2046 LCD compatible with Raspberry Pi 1/2/3 Model B B+ A+ Raspbian Video Photo Display System Module @XYG"
+         "Price": "$60.59",
+         "Product": "Raspberry Pi 4 Model B 4GB for Game Emulator/Mini PC/Artificial Intelligence/Printer/Workstation/Media Center/File Storage Server/Etc"
       },
       {
          "ID": "AMZ22",
-         "Price": "$145.99",
-         "Product": "Extreme Kit for Raspberry Pi 5 Enthusiast, Include Pi 5 8GB RAM Board, 128GB Preloaded SD Card and Card Reader, 27W Power Supply, ABS Case with Active Cooler, Set of 2 4K HDMI Cable (8GB RAM)"
+         "Price": "$36.99",
+         "Product": "4 inch 320*480 Resistive Touch Screen TFT XPT2046 LCD compatible with Raspberry Pi 1/2/3 Model B B+ A+ Raspbian Video Photo Display System Module @XYG"
       },
       {
          "ID": "AMZ23",
