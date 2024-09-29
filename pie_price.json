@@ -1,5 +1,5 @@
 {
-   "Date": "2024-09-28T06:29:09.019Z",
+   "Date": "2024-09-29T06:29:17.325Z",
    "AMZ": [
       {
          "ID": "AMZ0",
@@ -28,7 +28,7 @@
       },
       {
          "ID": "AMZ5",
-         "Price": "$85.99",
+         "Price": "$85.95",
          "Product": "4 Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc."
       },
       {
@@ -38,8 +38,8 @@
       },
       {
          "ID": "AMZ7",
-         "Price": "$69.99",
-         "Product": "Raspberry Pi 5 4GB Single Board 2.4GHz Quad-core Cortex-A76 64-bit Arm (4GB Board)"
+         "Price": "$134.99",
+         "Product": "Starter Kit for Raspberry Pi 4 8GB - 128GB Edition, Case with PWM Fan, 18W 5V 3.6A Power Supply with ON/Off Switch, HDMI Cables (8GB RAM)"
       },
       {
          "ID": "AMZ8",
@@ -48,8 +48,8 @@
       },
       {
          "ID": "AMZ9",
-         "Price": "$134.99",
-         "Product": "Starter Kit for Raspberry Pi 4 8GB - 128GB Edition, Case with PWM Fan, 18W 5V 3.6A Power Supply with ON/Off Switch, HDMI Cables (8GB RAM)"
+         "Price": "$69.99",
+         "Product": "Raspberry Pi 5 4GB Single Board 2.4GHz Quad-core Cortex-A76 64-bit Arm (4GB Board)"
       },
       {
          "ID": "AMZ10",
@@ -58,18 +58,18 @@
       },
       {
          "ID": "AMZ11",
-         "Price": "$104.99",
-         "Product": "Starter Kit for Raspberry Pi 4 4GB, with Raspberry Pi 4, Case, 64GB Card, Card Reader, HDMI Cables and 18W USB C Power Supply"
-      },
-      {
-         "ID": "AMZ12",
          "Price": "$46.78",
          "Product": "4 Model B 2019 Quad Core 64 Bit WiFi Bluetooth (1GB)"
       },
       {
+         "ID": "AMZ12",
+         "Price": "$104.99",
+         "Product": "Starter Kit for Raspberry Pi 4 4GB, with Raspberry Pi 4, Case, 64GB Card, Card Reader, HDMI Cables and 18W USB C Power Supply"
+      },
+      {
          "ID": "AMZ13",
-         "Price": "$128.99",
-         "Product": "Raspberry Pi 4 8GB Basic Starter Kit with Fan Cooled Heavy Duty Aluminum Alloy Case (Black Case)"
+         "Price": "$109.99",
+         "Product": "Raspberry Pi 4 4GB Basic Starter Kit with Fan-Cooled Heavy-Duty Aluminum Alloy Case"
       },
       {
          "ID": "AMZ14",
@@ -78,8 +78,8 @@
       },
       {
          "ID": "AMZ15",
-         "Price": "$89.49",
-         "Product": "4 Model B 8GB"
+         "Price": "$179.99",
+         "Product": "Raspberry Pi 4 8GB Extreme Kit - 128GB Edition (8GB RAM)"
       },
       {
          "ID": "AMZ16",
@@ -88,23 +88,23 @@
       },
       {
          "ID": "AMZ17",
-         "Price": "$72.99",
-         "Product": "Raspberry Pi 5, Single Board Computer, 4GB RAM, 2.4GHz 64-bit Quad-core Arm Cortex-A76 Processor, Bluetooth 5.0, BLE Wireless with Vilros 6 Piece Heatsink Set"
+         "Price": "$89.49",
+         "Product": "4 Model B 8GB"
       },
       {
          "ID": "AMZ18",
-         "Price": "$179.99",
-         "Product": "Raspberry Pi 4 8GB Extreme Kit - 128GB Edition (8GB RAM)"
-      },
-      {
-         "ID": "AMZ19",
          "Price": "$174.99",
          "Product": "Raspberry Pi 4 Extreme Kit - Aluminum Edition (8GB RAM)"
       },
       {
+         "ID": "AMZ19",
+         "Price": "$139.99",
+         "Product": "Starter Kit for Raspberry Pi 4 8GB - 64GB Edition, DeskPi Lite Case with Power Button/Heatsink with PWM Fan, QC3.0 Power Supply, HDMI Cable, Card Reader (8GB RAM)"
+      },
+      {
          "ID": "AMZ20",
-         "Price": "$169.99",
-         "Product": "Raspberry Pi 4 Complete Desktop Starter Kit (8GB RAM)"
+         "Price": "$72.99",
+         "Product": "Raspberry Pi 5, Single Board Computer, 4GB RAM, 2.4GHz 64-bit Quad-core Arm Cortex-A76 Processor, Bluetooth 5.0, BLE Wireless with Vilros 6 Piece Heatsink Set"
       },
       {
          "ID": "AMZ21",
@@ -113,13 +113,13 @@
       },
       {
          "ID": "AMZ22",
-         "Price": "$109.99",
-         "Product": "for Raspberry Pi 4 4GB Starter Kit, 64G SD Card (Preloaded Raspberry Pi OS),5V 4A Power Supply with ON/Off Switch，Case with Fan for Raspberry Pi 4, HDMI Cables for Raspberry Pi 4(4GB RAM)"
+         "Price": "$169.99",
+         "Product": "Raspberry Pi 4 Complete Desktop Starter Kit (8GB RAM)"
       },
       {
          "ID": "AMZ23",
-         "Price": "$136.99",
-         "Product": "Starter Kit for Raspberry Pi 4 8GB, with Raspberry Pi 4, Case with Fan, 128GB Card, Card Reader,HDMI Cables and USB C Power Supply"
+         "Price": "$69.99",
+         "Product": "Raspberry Pi 5, Single Board Computer, 4GB RAM, 2.4GHz 64-bit Quad-core Arm Cortex-A76 Processor, Bluetooth 5.0, BLE Wireless"
       }
    ],
    "CANAKIT": []
