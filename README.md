@@ -1,4 +1,4 @@
-# Amazon-Pie-Scrapper 
+# Amazon-Pie-Scrapper (OFFLINE UNTIL TBD)
 ![action_working](https://github.com/cjvillar/amazon-pie-scrapper/actions/workflows/node.js.yml/badge.svg)
 ![Prices](https://github.com/cjvillar/amazon-pie-scrapper/actions/workflows/main.yml/badge.svg)
 
